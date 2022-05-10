@@ -1,2 +1,1 @@
-# filters
-filters
+Experimental results for many filtering algorithms
