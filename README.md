@@ -22,23 +22,12 @@ Results of the state errors using Algorithms [7](experiments/algorithm_7), [8](e
 
 ### Tracking states and estimating parameters
 
-Simultaneously tracking states and estimating parameters of epidemics on contact networks with Algorithms 10, 11 and 12 (together with Algorithm 2**).
+Simultaneously tracking states and estimating parameters of epidemics on contact networks with Algorithms 10, 11 and 12 (together with Algorithm 2* or Algorithm 2**).
 
 Results of the state errors, parameter errors and parameter estimates using Algorithms [10](experiments/algorithm_10), [11](experiments/algorithm_11) and [12](experiments/algorithm_12).
 
 
+### Online appendix
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+The [online appendix](online_appendix.pdf) presents experimental results of tracking states and estimating parameters using Algorithms 2** and 5, without exploiting the factorization assumption.
 
