@@ -31,3 +31,4 @@ Results of the state errors, parameter errors and parameter estimates using Algo
 
 The [online appendix](online_appendix.pdf) presents experimental results of tracking states and estimating parameters using Algorithms 2** and 5, without exploiting the factorization assumption.
 
+Additional details can be found in the manuscript on arXiv [Factored Conditional Filtering: Tracking States and Estimating Parameters in High-Dimensional Spaces](https://arxiv.org/abs/2206.02178).
