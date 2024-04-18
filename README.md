@@ -26,9 +26,4 @@ Simultaneously tracking states and estimating parameters of epidemics on contact
 
 Results of the state errors, parameter errors and parameter estimates using Algorithms [10](experiments/algorithm_10), [11](experiments/algorithm_11) and [12](experiments/algorithm_12).
 
-
-### Online appendix
-
-The [online appendix](online_appendix.pdf) presents experimental results of tracking states and estimating parameters using Algorithms 2** and 5, without exploiting the factorization assumption.
-
 Additional details can be found in the manuscript on arXiv [Factored Conditional Filtering: Tracking States and Estimating Parameters in High-Dimensional Spaces](https://arxiv.org/abs/2206.02178).
