@@ -4,13 +4,13 @@
 | Dataset | \# of Nodes | \# of Edges | Description |
 | ------- | ----------- | ----------- | ----------- |
 | OpenFlights (Opsahl, 2011) | 2,905 | 15,645 | Airport network |
-| Facebook (Rozemberczki et al., 2019) | 22,470 | 170,823 | Social network of Facebook sites |
+| Facebook (Rozemberczki et al., 2021) | 22,470 | 170,823 | Social network of Facebook sites |
 | Email (Klimt & Yang, 2004) | 33,696 | 180,811 | Network of email communications |
-| GitHub (Rozemberczki et al., 2019) | 37,700 | 289,003 | Social network of developers on GitHub |
+| GitHub (Rozemberczki et al., 2021) | 37,700 | 289,003 | Social network of developers on GitHub |
 | Gowalla (Cho et al., 2011) | 196,591 | 950,327 | Friendship network of Gowalla users |
 | Youtube (Mislove et al., 2007) | 1,134,890 | 2,987,624 | Friendship network of Youtube users |
-| AS-733 (Leskovec et al., 2005) | 103 -- 6,474 | 248 -- 13,895 | 733 AS dynamic communication networks |
-| AS-122 (Leskovec et al., 2005) | 8,020 -- 26,475 | 18,203 -- 53,601 | 122 AS dynamic communication networks |
+| AS-733 (Leskovec et al., 2005) | 6,474 | 248 -- 13,895 | 733 AS *dynamic* communication networks |
+| AS-122 (Leskovec et al., 2005) | 26,475 | 18,203 -- 53,601 | 122 AS *dynamic* communication networks |
 
 
 ### Tracking states
@@ -22,8 +22,8 @@ Results of the state errors using Algorithms [7](experiments/algorithm_7), [8](e
 
 ### Tracking states and estimating parameters
 
-Simultaneously tracking states and estimating parameters of epidemics on contact networks with Algorithms 10, 11 and 12 (together with Algorithm 2* or Algorithm 2**).
+Simultaneously tracking states and estimating parameters of epidemics on contact networks with Algorithms 5, 10, 11 and 12 (together with Algorithm 2* or Algorithm 2**).
 
-Results of the state errors, parameter errors and parameter estimates using Algorithms [10](experiments/algorithm_10), [11](experiments/algorithm_11) and [12](experiments/algorithm_12).
+Results of the state errors, parameter errors and parameter estimates using Algorithms [5](experiments/algorithm_5), [10](experiments/algorithm_10), [11](experiments/algorithm_11) and [12](experiments/algorithm_12).
 
 Additional details can be found in the manuscript on arXiv [Factored Conditional Filtering: Tracking States and Estimating Parameters in High-Dimensional Spaces](https://arxiv.org/abs/2206.02178).
